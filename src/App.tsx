@@ -46,7 +46,7 @@ function App() {
                   Симулятор производства <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">ЦБП</span>
                 </h1>
                 <p className="text-slate-500 text-xs md:text-sm mt-0.5">
-                  Полный цикл целлюлозно-бумажного комбината • Светогорск
+                  Полный цикл целлюлозно-бумажного производства
                 </p>
               </div>
             </div>
